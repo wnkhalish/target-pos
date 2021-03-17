@@ -1,0 +1,8 @@
+{
+    "radiusSize": "Big",
+    "timeOnTarget": "1 seconds",
+    "numberOfRepeats": 2,
+    "scaleFactor": "1f",
+    "foamType": "Soft",
+    "isFoamOptionsEnabled": true
+}

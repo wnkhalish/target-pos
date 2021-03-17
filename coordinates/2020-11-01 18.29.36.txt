@@ -1,0 +1,3 @@
+Logs for 2020-11-01 18.29.36 session
+attempt number 1: (0.9, 0.3)
+attempt number 2: (0.4, -0.4)

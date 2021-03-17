@@ -1,0 +1,7 @@
+Logs for 2021-01-23 19.28.23 session
+attempt number 1: (0.2, 0.1)
+attempt number 2: (0.3, -1.5)
+attempt number 3: (-1.4, 1.1)
+attempt number 4: (2.4, 0.6)
+attempt number 5: (-1.9, -0.8)
+attempt number 6: (-0.5, 2.4)

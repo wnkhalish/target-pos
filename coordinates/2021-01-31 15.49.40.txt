@@ -1,0 +1,4 @@
+Logs for 2021-01-31 15.49.40 session
+attempt number 1: (0.1, -0.1)
+attempt number 2: (1.8, -1.6)
+attempt number 3: (0.4, 1.8)
